@@ -1,0 +1,9 @@
+for that moment it seems to be logic to ctreate app = Flask__name__ and references to config variables in settings data (after from flask Flask)
+
+models.py/ParticularModel.py contains from flask Flask and SQLAlchemy with creation of the db = SQLAlchemy(app) yet it also first imports app from settings.py
+
+and finally app.py where we importing everything from settings file (where app is now declared) as well as any other modules from flask like Flask, request etc to manage 'views' functions with @app.routes for wanted responses (in Project12 it is API so more work on text.json files then rendering html templates
+
+ 
+
+
