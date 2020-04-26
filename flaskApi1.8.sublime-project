@@ -1,0 +1,41 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/morfina/PycharmProjects/P12FlApi/venv/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"anaconda_gutter_theme": "retina",
+		"anaconda_linter_mark_style": "none",
+		"anaconda_linter_underlines": false,
+		"anaconda_linting": true,
+		"anaconda_linting_behaviour": "always",
+		"anaconda_tooltip_theme": "popup",
+		"auto_formatting": true,
+		"autoformat_ignore":
+		[
+		],
+		"disable_anaconda_completion": false,
+		"display_signatures": true,
+		"enable_docstrings_tooltip": true,
+		"enable_signatures_tooltip": true,
+		"merge_signatures_and_doc": true,
+		"parameters_completion_on_keypress": true,
+		"pep8_ignore":
+		[
+			"E501"
+		],
+		"python_interpreter": "~/PycharmProjects/P12FlApi/venv/bin/python"
+	}
+}

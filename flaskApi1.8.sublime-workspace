@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sec",
+				"SECRET_KEY"
+			],
+			[
+				"null",
+				"nullable\tstatement"
+			],
+			[
+				"min",
+				"mint\tIntegerField (mint)"
+			],
+			[
+				"j",
+				"json.jsonify\tFlask"
+			],
+			[
+				"S",
+				"SECRET_KEY"
+			],
+			[
+				"utc",
+				"utcnow\tfunction"
+			],
+			[
+				"da",
+				"datetime\tclass"
+			],
+			[
+				"con",
+				"config\tstatement"
+			],
+			[
+				"route",
+				"route\tFlask"
+			],
+			[
+				"res",
+				"response200\tfunction"
+			],
+			[
+				"book",
+				"book"
+			],
+			[
+				"new",
+				"new_isbn\tstatement"
+			],
+			[
+				"url",
+				"url_map\tstatement"
+			],
+			[
+				"Conv",
+				"IntegerConverter\tclass"
+			],
+			[
+				"Con",
+				"IntegerConverter\tclass"
+			],
+			[
+				"respon",
+				"response201\tfunction"
+			],
+			[
+				"valid_",
+				"valid_patch_request_data"
+			],
+			[
+				"defaul",
+				"default\tmodule"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"defa",
+				"default\tFlask"
+			],
+			[
+				"reqestt",
+				"valid_put_request_data"
+			],
+			[
+				"get_",
+				"get_by\tfunction"
+			],
+			[
+				"get",
+				"get_json\tFlask"
+			],
+			[
+				"json",
+				"json\tfunction"
+			],
+			[
+				"c",
+				"config\tstatement"
+			],
+			[
+				"_",
+				"__name__\tinstance"
+			],
+			[
+				"js",
+				"json.dumps\tFlask"
+			],
+			[
+				"upda",
+				"updated_object\tstatement"
+			],
+			[
+				"upd",
+				"updated_object\tstatement"
+			],
+			[
+				"a",
+				"attributes\tparam"
+			],
+			[
+				"app",
+				"app_context\tFlask"
+			],
+			[
+				"bo",
+				"book_object\tstatement"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"mim",
+				"mimetype\tparam"
+			],
+			[
+				"jso",
+				"json.dumps\tFlask"
+			],
+			[
+				"respo",
+				"response\tstatement"
+			],
+			[
+				"stat",
+				"status\tparam"
+			],
+			[
+				"delete",
+				"delete_by\tfunction"
+			],
+			[
+				"update",
+				"updated_book\tstatement"
+			],
+			[
+				"b",
+				"books\tstatement"
+			],
+			[
+				"re",
+				"request\tinstance"
+			],
+			[
+				"dump",
+				"dumps\tfunction"
+			],
+			[
+				"Book",
+				"BookObject"
+			],
+			[
+				"Re",
+				"Response\tclass"
+			],
+			[
+				"boo",
+				"bookObject\tparam"
+			],
+			[
+				"rend",
+				"render_template_string\tFlask"
+			],
+			[
+				"POS",
+				"__pos__\tstatement"
+			],
+			[
+				"p",
+				"pop\tfunction"
+			],
+			[
+				"co",
+				"count\tfunction"
+			],
+			[
+				"reques",
+				"request_data\tstatement"
+			],
+			[
+				"req",
+				"request_data\tstatement"
+			],
+			[
+				"object",
+				"objects_list\tparam"
+			],
+			[
+				"V",
+				"ValueError\tclass"
+			],
+			[
+				"valid",
+				"validBookObject\tfunction"
+			],
+			[
+				"miss",
+				"missing_isbn\tstatement"
+			],
+			[
+				"vali",
+				"valid_object\tstatement"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"jsoni",
+				"json.jsonify\tFlask"
+			],
+			[
+				"border",
+				"border-bottom-0 \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"tab-content \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-check-label \tBootstrap 4 Class"
+			],
+			[
+				"items",
+				"itemsapp"
+			],
+			[
+				"card",
+				"card-footer \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"medi",
+				"media-body \tBootstrap 4 Class"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"ju",
+				"justify-content-around \tBootstrap 4 Class"
+			],
+			[
+				"body",
+				"card-body \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-faded \tBootstrap 4 Class"
+			],
+			[
+				"bordered",
+				"border-secondary \tBootstrap 4 Class"
+			],
+			[
+				"justify",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"loca",
+				"localization"
+			],
+			[
+				"contai",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"contain",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"from",
+				"from_object\tFlask"
+			],
+			[
+				"f",
+				"flaskRoute\tFlaskRoute"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 9625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 820,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 5227,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.6.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.6.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"run ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: model"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pre",
+				"Install Package Control"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+			"Book.get_all()",
+			"python",
+			"sublime.cache_path()",
+			"exit",
+			"exit()",
+			"ls",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/morfina/PycharmProjects/P12FlApi"
+	],
+	"file_history":
+	[
+		"/home/morfina/.config/sublime-text-3/Packages/ColorTheme/31 Color Scheme/31 Night.tmTheme",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/pkg_resources/_vendor/six.py",
+		"/home/morfina/PycharmProjects/P12FlApi/books1.json",
+		"/home/morfina/PycharmProjects/P12FlApi/books2.json",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/werkzeug/routing.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/json/__init__.py",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/blog_app/views.py",
+		"/home/morfina/PycharmProjects/Finished/files5.py",
+		"/home/morfina/PycharmProjects/Project2/DungeonGame/Mechanics/Actions.py",
+		"/home/morfina/PycharmProjects/Project2/DungeonGame/Structure/GameMap.py",
+		"/home/morfina/PycharmProjects/Project3/DungeonGame/Character.py",
+		"/home/morfina/PycharmProjects/Project3/DungeonGame/WeaponManager.py",
+		"/home/morfina/PycharmProjects/Project3/DungeonGame/testfile7.py",
+		"/home/morfina/PycharmProjects/Project3/DungeonGame/RPGameplay.py",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/blog_app/models.py",
+		"/home/morfina/PycharmProjects/Project1/FilesHandling/files1.py",
+		"/home/morfina/PycharmProjects/Project1/FilesHandling/files2.py",
+		"/home/morfina/PycharmProjects/Project1/FilesHandling/files3.py",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/amnesia.py",
+		"/home/morfina/PycharmProjects/Project7Flask/flaskapp/amnesia.py",
+		"/home/morfina/PycharmProjects/Project6Flask/.gitignore",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/posts.json",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/web_project/settings.py",
+		"/home/morfina/PycharmProjects/P12FlApi/models.py",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/web_project/__init__.py",
+		"/home/morfina/PycharmProjects/Project7Flask/flaskapp/forms.py",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/models.py",
+		"/home/morfina/PycharmProjects/P8Flask/app/__init__.py",
+		"/home/morfina/PycharmProjects/Project6Flask/Blog/blog.py",
+		"/home/morfina/PycharmProjects/Project6Flask/Blog/forms.py",
+		"/home/morfina/PycharmProjects/P8Flask/app/mod_auth/models.py",
+		"/home/morfina/PycharmProjects/P8Flask/app/mod_auth/controllers.py",
+		"/home/morfina/PycharmProjects/Project6Flask/Quiz/quiz.py",
+		"/home/morfina/PycharmProjects/Project6Flask/Blog/templates/base.html",
+		"/home/morfina/PycharmProjects/Project1D/maindir/itemsapp/models.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/maindir/settings.py",
+		"/home/morfina/PycharmProjects/P8Flask/config.py",
+		"/home/morfina/PythonProjects/flask_rpg/amnesia.py",
+		"/home/morfina/PycharmProjects/P8Flask/app/mod_auth/forms.py",
+		"/home/morfina/PycharmProjects/P8Flask/run.py",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/forms.py",
+		"/home/morfina/PycharmProjects/P8Flask/app/mod_auth/__init__.py",
+		"/home/morfina/PycharmProjects/P12FlApi/__init__.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/werkzeug/datastructures.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/werkzeug/wrappers/base_response.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/click/_termui_impl.py",
+		"/home/morfina/.config/sublime-text-3/Backup/20200420131042/31 Color Scheme/31 Night.tmTheme",
+		"/home/morfina/.config/sublime-text-3/Installed Packages/31 Color Scheme/31 Night.tmTheme",
+		"/home/morfina/.config/sublime-text-3/Backup/20200421030607/31 Color Scheme/31 Night.tmTheme",
+		"/home/morfina/PycharmProjects/P12FlApi/test1.py",
+		"/home/morfina/.config/sublime-text-3/Packages/31 Color Scheme/31 Night.tmTheme",
+		"/home/morfina/PycharmProjects/Project6Flask/ToDo/todo.py",
+		"/home/morfina/PycharmProjects/Project6Flask/Quiz/templates/index.html",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/player/views.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/debughelpers.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/sessions.py",
+		"/home/morfina/.config/sublime-text-3/Packages/3024 Color Scheme/3024Night.tmTheme",
+		"/home/morfina/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/morfina/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/morfina/.config/sublime-text-3/Packages/EarthboundThemes/sublime/earthbound_dusty-dunes-darker.tmTheme",
+		"/home/morfina/.config/sublime-text-3/Packages/3024 Color Scheme/Night.tmTheme",
+		"/home/morfina/.config/sublime-text-3/Packages/3024 Color Scheme/3024",
+		"/home/morfina/PycharmProjects/P12FlApi/flaskApi.sublime-project",
+		"/home/morfina/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/morfina/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/morfina/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/morfina/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/pip/download.py",
+		"/home/morfina/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/app.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/__init__.py",
+		"/home/morfina/PycharmProjects/P12FlApi/config.py",
+		"/home/morfina/PycharmProjects/P12FlApi/venv/lib/python3.6/site-packages/flask/config.py",
+		"/home/morfina/PycharmProjects/P12FlApi/requirements.txt",
+		"/home/morfina/PycharmProjects/Project11D/basedir/basedir/settings.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/itemsapp/post_item.html",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/forms.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/itemsapp/item_detail.html",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/base.html",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/itemsapp/grid.html",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/models.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/admin.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/apps.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/views.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/urls.py",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/gameplay/views.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/basedir/urls.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/home.html",
+		"/home/morfina/PycharmProjects/Project11D/basedir/itemsapp/helpers.py",
+		"/home/morfina/PycharmProjects/Project11D/venv/lib/python3.6/site-packages/django/views/generic/detail.py",
+		"/home/morfina/PycharmProjects/Project11D/basedir/templates/base1.html",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/tictactoe/settings.py",
+		"/home/morfina/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/tictactoe/urls.py",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/gameplay/urls.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/maindir/urls.py",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/gameplay/models.py",
+		"/home/morfina/PycharmProjects/Project8D/tictactoe/tictactoe/views.py",
+		"/home/morfina/PycharmProjects/Project9D/mywebsite/mywebsite/urls.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/itemsapp/__init__.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/maindir/__init__.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/items_app/apps.py",
+		"/home/morfina/PycharmProjects/Project1D/venv/lib/python3.6/site-packages/django/contrib/admin/sites.py",
+		"/home/morfina/PycharmProjects/Project1D/venv/lib/python3.6/site-packages/django/contrib/__init__.py",
+		"/home/morfina/PycharmProjects/Project1D/venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py",
+		"/home/morfina/PycharmProjects/Project1D/venv/lib/python3.6/site-packages/django/db/models/__init__.py",
+		"/home/morfina/PycharmProjects/Project1D/venv/lib/python3.6/site-packages/django/db/__init__.py",
+		"/home/morfina/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/morfina/PycharmProjects/Project1D/maindir/generalapp/urls.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/generalapp/models.py",
+		"/home/morfina/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/morfina/PycharmProjects/Project5Django/web_project/users_app/views.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/generalapp/migrations/urls.py",
+		"/home/morfina/PycharmProjects/Project1D/maindir/templates/base.html",
+		"/home/morfina/PycharmProjects/Project1D/maindir/templates/home.html",
+		"/home/morfina/PycharmProjects/Project1D/maindir/generalapp/apps.py",
+		"/home/morfina/PycharmProjects/Project9D/mywebsite/mywebsite/settings.py",
+		"/home/morfina/PycharmProjects/Project1D/project1D.sublime-project",
+		"/home/morfina/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/venv/lib/python3.6/site-packages/sqlalchemy/testing/pickleable.py",
+		"/home/morfina/PycharmProjects/P8Flask/venv/lib/python3.6/site-packages/wtforms/ext/django/i18n.py",
+		"/home/morfina/PycharmProjects/P8Flask/venv/lib/python3.6/site-packages/flask_wtf/form.py",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/templates/register.html",
+		"/home/morfina/PycharmProjects/Project7Flask/webapp/templates/dathomir2.html",
+		"/home/morfina/.config/sublime-text-3/Packages/User/Merlin.sublime-settings",
+		"/home/morfina/.config/sublime-text-3/Packages/Merlin/Merlin.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response",
+			"do_execute",
+			"integrity"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 118.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5227,
+								5227
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 374.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 152.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 162.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.6.sublime-build",
+	"project": "flaskApi1.8.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
